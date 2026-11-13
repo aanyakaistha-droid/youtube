@@ -1,1 +1,0 @@
-clone of youtube.com made through html and css
