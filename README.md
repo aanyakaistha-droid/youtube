@@ -43,20 +43,6 @@ youtube/
 └── README.md
 ```
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/aanyakaistha-droid/youtube.git
-   ```
-
-2. Open the project folder.
-
-3. Open `youtube.html` in your browser.
-
-No additional dependencies or installations are required.
-
 ## What I Learned
 
 Through this project, I practised:
