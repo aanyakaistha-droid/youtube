@@ -53,7 +53,7 @@
                 font-size: 12px;
                 font-weight: 500;
                 padding: 4px;
-                border-radius: 2px;
+                border-radius: 4px;
                 background-color: black;
                 color: white;
                 position: absolute;
@@ -62,3 +62,9 @@
                 
 
             }
+
+            .video-title a,
+.video-author a {
+    color: black;
+    text-decoration: none;
+}
