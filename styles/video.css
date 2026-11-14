@@ -8,7 +8,7 @@
                 font-size: 14px;
                 font-weight: 500;
                 line-height: 20px;
-                margin-bottom: 12px;
+                margin-bottom: 10px;
             }
 
             .video-info-grid {
@@ -23,12 +23,12 @@
             }
 
             .profile-picture {
-                width: 40px;
+                width: 36px;
                 border-radius: 20px;
             }
 
             .thumbnail-row {
-                margin-bottom: 12px;
+                margin-bottom: 8px;
                 position: relative;
             }
 
@@ -52,10 +52,7 @@
                 font-family: roboto, arial;
                 font-size: 12px;
                 font-weight: 500;
-                padding-left: 4px;
-                padding-right: 4px;
-                padding-top: 4px;
-                padding-bottom: 4px;
+                padding: 4px;
                 border-radius: 2px;
                 background-color: black;
                 color: white;
